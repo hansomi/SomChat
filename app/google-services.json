@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "808494766600",
+    "firebase_url": "https://somchat-58bff.firebaseio.com",
+    "project_id": "somchat-58bff",
+    "storage_bucket": "somchat-58bff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808494766600:android:847670469f574ec7",
+        "android_client_info": {
+          "package_name": "com.example.lucete.somchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808494766600-lac92r41g94q3c96ifuvlitjn29iu65c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lucete.somchat",
+            "certificate_hash": "e3339b0e7cb871db4d26dfd852d663c610b898e6"
+          }
+        },
+        {
+          "client_id": "808494766600-957ghgfkpahl1cn2r9m9h3egome5n4pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG1IsCOWzZJLCvurlXNx4fxr6k8MfcIy0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808494766600-957ghgfkpahl1cn2r9m9h3egome5n4pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
