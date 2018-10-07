@@ -9,10 +9,11 @@ public class ChatMessage {
     private String imageUrl;
     private long time;
 
-    public ChatMessage() {
+    public ChatMessage(){
     }
 
-    public ChatMessage(String text, String name, String photoUrl, String imageUrl, long time) {
+    public ChatMessage(String id, String text, String name, String photoUrl, String imageUrl, long time) {
+        this.id = id;
         this.text = text;
         this.name = name;
         this.photoUrl = photoUrl;
